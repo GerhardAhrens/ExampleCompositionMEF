@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorContract", "..\Ca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorMinus", "..\CalculatorMinus\CalculatorMinus.csproj", "{6CE3B483-5B81-488B-B0DA-86AC25690168}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorPlus", "..\CalculatorPlus\CalculatorPlus.csproj", "{BA3D3908-04EA-42D3-B7D0-67C00986F232}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorPlus", "..\CalculatorPlus\CalculatorPlus.csproj", "{BA3D3908-04EA-42D3-B7D0-67C00986F232}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Projektmappenelemente", "{F1AC64E2-64DD-4973-BBCF-386B84890498}"
 	ProjectSection(SolutionItems) = preProject
