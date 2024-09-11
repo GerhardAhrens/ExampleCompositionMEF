@@ -1,0 +1,15 @@
+D:\_GitHub\CompositionMEF\CalculatorMinus\bin\Debug\net8.0-windows\CalculatorMinus.deps.json
+D:\_GitHub\CompositionMEF\CalculatorMinus\bin\Debug\net8.0-windows\CalculatorMinus.dll
+D:\_GitHub\CompositionMEF\CalculatorMinus\bin\Debug\net8.0-windows\CalculatorMinus.pdb
+D:\_GitHub\CompositionMEF\CalculatorMinus\bin\Debug\net8.0-windows\CalculatorContract.dll
+D:\_GitHub\CompositionMEF\CalculatorMinus\bin\Debug\net8.0-windows\CalculatorContract.pdb
+D:\_GitHub\CompositionMEF\CalculatorMinus\obj\Debug\net8.0-windows\CalculatorMinus.csproj.AssemblyReference.cache
+D:\_GitHub\CompositionMEF\CalculatorMinus\obj\Debug\net8.0-windows\CalculatorMinus.GeneratedMSBuildEditorConfig.editorconfig
+D:\_GitHub\CompositionMEF\CalculatorMinus\obj\Debug\net8.0-windows\CalculatorMinus.AssemblyInfoInputs.cache
+D:\_GitHub\CompositionMEF\CalculatorMinus\obj\Debug\net8.0-windows\CalculatorMinus.AssemblyInfo.cs
+D:\_GitHub\CompositionMEF\CalculatorMinus\obj\Debug\net8.0-windows\CalculatorMinus.csproj.CoreCompileInputs.cache
+D:\_GitHub\CompositionMEF\CalculatorMinus\obj\Debug\net8.0-windows\Calculat.0EA63D02.Up2Date
+D:\_GitHub\CompositionMEF\CalculatorMinus\obj\Debug\net8.0-windows\CalculatorMinus.dll
+D:\_GitHub\CompositionMEF\CalculatorMinus\obj\Debug\net8.0-windows\refint\CalculatorMinus.dll
+D:\_GitHub\CompositionMEF\CalculatorMinus\obj\Debug\net8.0-windows\CalculatorMinus.pdb
+D:\_GitHub\CompositionMEF\CalculatorMinus\obj\Debug\net8.0-windows\ref\CalculatorMinus.dll

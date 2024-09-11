@@ -1,0 +1,15 @@
+D:\_GitHub\CompositionMEF\CalculatorPlus\bin\Debug\net8.0-windows\CalculatorPlus.deps.json
+D:\_GitHub\CompositionMEF\CalculatorPlus\bin\Debug\net8.0-windows\CalculatorPlus.dll
+D:\_GitHub\CompositionMEF\CalculatorPlus\bin\Debug\net8.0-windows\CalculatorPlus.pdb
+D:\_GitHub\CompositionMEF\CalculatorPlus\bin\Debug\net8.0-windows\CalculatorContract.dll
+D:\_GitHub\CompositionMEF\CalculatorPlus\bin\Debug\net8.0-windows\CalculatorContract.pdb
+D:\_GitHub\CompositionMEF\CalculatorPlus\obj\Debug\net8.0-windows\CalculatorPlus.csproj.AssemblyReference.cache
+D:\_GitHub\CompositionMEF\CalculatorPlus\obj\Debug\net8.0-windows\CalculatorPlus.GeneratedMSBuildEditorConfig.editorconfig
+D:\_GitHub\CompositionMEF\CalculatorPlus\obj\Debug\net8.0-windows\CalculatorPlus.AssemblyInfoInputs.cache
+D:\_GitHub\CompositionMEF\CalculatorPlus\obj\Debug\net8.0-windows\CalculatorPlus.AssemblyInfo.cs
+D:\_GitHub\CompositionMEF\CalculatorPlus\obj\Debug\net8.0-windows\CalculatorPlus.csproj.CoreCompileInputs.cache
+D:\_GitHub\CompositionMEF\CalculatorPlus\obj\Debug\net8.0-windows\Calculat.D07389C0.Up2Date
+D:\_GitHub\CompositionMEF\CalculatorPlus\obj\Debug\net8.0-windows\CalculatorPlus.dll
+D:\_GitHub\CompositionMEF\CalculatorPlus\obj\Debug\net8.0-windows\refint\CalculatorPlus.dll
+D:\_GitHub\CompositionMEF\CalculatorPlus\obj\Debug\net8.0-windows\CalculatorPlus.pdb
+D:\_GitHub\CompositionMEF\CalculatorPlus\obj\Debug\net8.0-windows\ref\CalculatorPlus.dll

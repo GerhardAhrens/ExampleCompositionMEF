@@ -1,0 +1,11 @@
+D:\_GitHub\CompositionMEF\CalculatorContract\bin\Debug\net8.0-windows\CalculatorContract.deps.json
+D:\_GitHub\CompositionMEF\CalculatorContract\bin\Debug\net8.0-windows\CalculatorContract.dll
+D:\_GitHub\CompositionMEF\CalculatorContract\bin\Debug\net8.0-windows\CalculatorContract.pdb
+D:\_GitHub\CompositionMEF\CalculatorContract\obj\Debug\net8.0-windows\CalculatorContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\_GitHub\CompositionMEF\CalculatorContract\obj\Debug\net8.0-windows\CalculatorContract.AssemblyInfoInputs.cache
+D:\_GitHub\CompositionMEF\CalculatorContract\obj\Debug\net8.0-windows\CalculatorContract.AssemblyInfo.cs
+D:\_GitHub\CompositionMEF\CalculatorContract\obj\Debug\net8.0-windows\CalculatorContract.csproj.CoreCompileInputs.cache
+D:\_GitHub\CompositionMEF\CalculatorContract\obj\Debug\net8.0-windows\CalculatorContract.dll
+D:\_GitHub\CompositionMEF\CalculatorContract\obj\Debug\net8.0-windows\refint\CalculatorContract.dll
+D:\_GitHub\CompositionMEF\CalculatorContract\obj\Debug\net8.0-windows\CalculatorContract.pdb
+D:\_GitHub\CompositionMEF\CalculatorContract\obj\Debug\net8.0-windows\ref\CalculatorContract.dll
